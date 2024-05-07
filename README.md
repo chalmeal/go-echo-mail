@@ -22,7 +22,7 @@ Golang + Echo + SendMail(MailHog)
 | 　　├── validator
 | 　　|    └── validator.go
 | 　　└── handlers
-|          └── history_handlers.go
+|          └── mail_handlers.go
 └── domain
       ├── historys
       |      ├── model.go
